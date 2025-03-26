@@ -58,7 +58,7 @@ HDL cholesterol
 SHAP (SHapley Additive Explanations) was used to visualize feature impacts on predictions
 - Findings confirmed that SBP, FBS, TG, and obesity had the most significant positive contribution toward MetS classification
 - HDL showed a protective (negative) association
-- 
+  
 
 ⚖️ Risk Factor Stratification (Odds Ratio Analysis)
 Odds ratio (OR) was calculated to assess risk factor strength across:
